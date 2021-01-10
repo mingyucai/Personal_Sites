@@ -7,25 +7,21 @@ Bio
 
 Research
     Publication            [research.html]
-    Google Scholar         [https://scholar.google.se/citations?user=_xrwAAYAAAAJ&hl=en]
+    Google Scholar         [https://scholar.google.com/citations?user=UIbtEVUAAAAJ&hl=en&oi=ao">Google&nbsp;Scholar]
 
 
 Software
-    P_MAS_TG            [P_MAS_TG.html]
-    P_MDP_TG            [P_MDP_TG.html]	
-    Py_iRobot_OptiTrack [Py_iRobot_OptiTrack.html]
-    RVO_Py_MAS          [RVO_Py_MAS.html]
-
+    MPC_LTL             [MPC_LTL.html]
+    E-LDGBA_RL          [E-LDGBA_RL.html]	
 
 Other Sites
-    GitHub [https://github.com/MengGuo]
-    Vimeo  [https://vimeo.com/mengguo]
+    GitHub   [https://github.com/mingyucai]
+    YouTube  [https://www.youtube.com/channel/UCHuBq2GgnycqmQyz_wh_mtw]
 
 
 Goodies
     LTL2BA         [http://www.lsv.ens-cachan.fr/~gastin/ltl2ba/]
-    Poly2tri       [https://pypi.python.org/pypi/poly2tri]
-    Gurobi         [https://www.gurobi.com/]
     LTL2dstar      [http://www.ltl2dstar.de]
+    Owl            [https://owl.model.in.tum.de]
+    Gurobi         [https://www.gurobi.com]
     Jemdoc         [http://jemdoc.jaboc.net]
-    Ipe		   [http://ipe.otfried.org/]
